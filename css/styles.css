@@ -1,0 +1,87 @@
+.studio-link{
+    width: 45px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+    color: #212121;
+}
+.portfolio-link{
+    width: 72px;
+    height: 16px;
+    left: 548px;
+    top: 32px;
+    color: #212121;
+    
+}
+
+.contacts-link{
+    width: 64px;
+    height: 16px;
+    left: 670px;
+    top: 32px;
+    color: #212121;
+}
+.site-links{
+    font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+}
+
+.phone{
+    color: #757575;
+    font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+}
+
+.emal{
+    color: #757575;
+    font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+}
+
+.backround-first{
+    width: 1600px;
+height: 600px;
+left: 0px;
+top: 80px;
+
+background: #2F303A;
+}
+
+.logo{
+    color: #FFFFFF;
+    font-weight: 900;
+font-size: 44px;
+line-height: 60px;
+width: 696px;
+height: 120px;
+left: 452px;
+top: 280px;
+position: absolute;
+text-align: center;
+}
+
+.order-button{
+    color: #FFFFFF;
+    font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+position: absolute;
+width: 152px;
+height: 30px;
+left: 724px;
+top: 440px;
+display: flex;
+align-items: center;
+text-align: center;
+position: absolute;
+width: 216px;
+height: 50px;
+left: 692px;
+top: 430px;
+background: #2196F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+}
