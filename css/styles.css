@@ -183,9 +183,9 @@ line-height: 24px;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px
-    color: var(--little-text-color);
     letter-spacing: 0.03em;
     font-family: 'Roboto', sans-serif;
+    color: var(--little-text-color);
 }
 
 .atention{
