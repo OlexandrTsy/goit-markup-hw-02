@@ -127,6 +127,9 @@ font-family: 'Roboto', sans-serif;
     left: 692px;
     top: 430px;
 }
+.order-button:hover{
+    background: var(--little-text-color);
+}
 
 .studio{
 color: var(--primary-text-color);
@@ -173,6 +176,7 @@ line-height: 24px;
     color: var(--little-text-color);
     font-family: 'Roboto', sans-serif;
 }
+
 .benefit-four{
     font-weight: 400;
     font-size: 14px;
