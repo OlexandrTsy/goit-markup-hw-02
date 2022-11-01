@@ -7,6 +7,11 @@
     text-decoration: none;
 
 }
+
+.studio-link:hover{
+    color: #2196F3; 
+}
+
 .portfolio-link{
     font-weight: 500;
     font-size: 14px;
@@ -17,6 +22,10 @@
 
 }
 
+.portfolio-link:hover{
+    color: #2196F3; 
+}
+
 .contacts-link{
     font-weight: 500;
     font-size: 14px;
@@ -25,7 +34,15 @@
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
 
+
 }
+
+.contacts-link:hover{
+    color: #2196F3; 
+
+}
+
+
 .site-links{
     font-weight: 500;
 font-size: 14px;
@@ -37,6 +54,11 @@ text-decoration: none;
 
 }
 
+.site-links:hover{
+    color: #2196F3;  
+} 
+
+
 .phone{
     color: #757575;
     font-weight: 500;
@@ -47,6 +69,10 @@ text-decoration: none;
 
 }
 
+.phone:hover{
+    color: #2196F3;  
+}
+
 .emal{
     color: #757575;
     font-weight: 500;
@@ -55,6 +81,10 @@ line-height: 16px;
 font-family: 'Roboto', sans-serif;
 text-decoration: none;
 
+}
+
+.email:hover{
+    color: #2196F3; 
 }
 
 .backround-first{
@@ -117,6 +147,8 @@ text-decoration: none;
 
 .web{
     color: #2196F3; 
+    font-family: 'Raleway', sans-serif;
+text-decoration: none;
 }
 
 .benefits{
