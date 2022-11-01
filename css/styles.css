@@ -41,22 +41,14 @@
     color: #2196F3; 
 
 }
-
-
-.site-links{
+.contacts-links{
     font-weight: 500;
-font-size: 14px;
-line-height: 16px;
-font-family: 'Roboto', sans-serif;
-text-decoration: none;
-text-decoration: none;
-
-
+    font-size: 14px;
+    line-height: 16px;
+    color: #212121;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
 }
-
-.site-links:hover{
-    color: #2196F3;  
-} 
 
 
 .phone{
@@ -147,8 +139,7 @@ text-decoration: none;
 
 .web{
     color: #2196F3; 
-    font-family: 'Raleway', sans-serif;
-text-decoration: none;
+
 }
 
 .benefits{
@@ -157,3 +148,33 @@ text-decoration: none;
 font-size: 14px;
 line-height: 24px;
 }
+
+.benefit-one{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.benefit-two{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.benefit-three{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.benefit-four{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
