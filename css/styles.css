@@ -4,6 +4,7 @@
 --little-text-color: #757575;
 --big-text-color :#FFFFFF;
 --backround-text-color:#2F303A;
+--buttons-bg-color: #F5F4FA;
 }
 
 .studio-link{
@@ -224,4 +225,39 @@ line-height: 24px;
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
     font-family: 'Roboto', sans-serif;
+}
+
+.menu-button{
+    font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+color: var(--primary-text-color);
+background: var(--buttons-bg-color);
+font-family: 'Roboto', sans-serif;
+cursor: pointer;
+}
+
+.menu-button:hover{
+background: var(--enother-text-color);
+color: var(--buttons-bg-color);
+}
+
+.choise{
+color: var(--primary-text-color);
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+font-family: 'Roboto', sans-serif;
+}
+
+.choise-name{
+color: var(--little-text-color);
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+font-family: 'Roboto', sans-serif;
+}
+
+body{
+    color: var(--big-text-color);
 }
