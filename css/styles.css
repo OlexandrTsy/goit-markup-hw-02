@@ -108,6 +108,7 @@ top: 280px;
 position: absolute;
 text-align: center;
 font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
 }
 
 .order-button{
@@ -273,10 +274,16 @@ font-size: 36px;
 line-height: 42px;
 letter-spacing: 0.03em;
 font-family: 'Roboto', sans-serif;
+text-align: center;
 }
 
 .what-we-doing{
-
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: var(--primary-text-color);
 }
 
 .image-one{
