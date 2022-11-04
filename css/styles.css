@@ -156,31 +156,7 @@ line-height: 24px;
     color: var(--little-text-color);
 }
 
-.atention{
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.03em;
-    color: var(--primary-text-color);
-}
-
-.punktuality{
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.03em;
-    color: var(--primary-text-color);
-}
-
-.planning{
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.03em;
-    color: var(--primary-text-color);
-}
-
-.modern{
+.benefit-headers{
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
