@@ -11,12 +11,13 @@
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    color: #212121;
+    color: var(--primary-text-color);
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
 
 }
 
+.studio-link:focus,
 .studio-link:hover{
     color: var(--enother-text-color);
 }
@@ -31,6 +32,7 @@
 
 }
 
+.portfolio-link:focus,
 .portfolio-link:hover{
     color: var(--enother-text-color); 
 }
@@ -46,6 +48,7 @@
 
 }
 
+.contacts-link:focus,
 .contacts-link:hover{
     color: var(--enother-text-color); 
 
@@ -69,6 +72,7 @@ text-decoration: none;
 
 }
 
+.phone:focus,
 .phone:hover{
     color: var(--enother-text-color);  
 }
@@ -83,6 +87,7 @@ text-decoration: none;
 
 }
 
+.emal:focus,
 .emal:hover{
     color: var(--enother-text-color); 
 }
@@ -99,16 +104,10 @@ background: var(--backround-text-color);
 .effective-choise{
     color: var(--big-text-color);
     font-weight: 900;
-font-size: 44px;
-line-height: 60px;
-width: 696px;
-height: 120px;
-left: 452px;
-top: 280px;
-position: absolute;
-text-align: center;
-font-family: 'Roboto', sans-serif;
-text-transform: uppercase;
+    font-size: 44px;
+    line-height: 60px;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
 }
 
 .order-button{
@@ -116,7 +115,7 @@ text-transform: uppercase;
     color: var(--big-text-color);
     font-weight: 700;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 30;
     display: flex;
     align-items: center;
     text-align: center;
@@ -127,6 +126,7 @@ text-transform: uppercase;
     height: 50px;
     left: 692px;
     top: 430px;
+    letter-spacing: 0.06em;
 }
 
 .order-button:hover{
@@ -154,38 +154,13 @@ font-size: 14px;
 line-height: 24px;
 }
 
-.benefit-one{
+.benefit-text{
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.03em;
     color: var(--little-text-color);
     font-family: 'Roboto', sans-serif;
-}
-.benefit-two{
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 0.03em;
-    color: var(--little-text-color);
-    font-family: 'Roboto', sans-serif;
-}
-.benefit-three{
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 0.03em;
-    color: var(--little-text-color);
-    font-family: 'Roboto', sans-serif;
-}
-
-.benefit-four{
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px
-    letter-spacing: 0.03em;
-    font-family: 'Roboto', sans-serif;
-    color: var(--little-text-color);
 }
 
 .atention{
@@ -256,6 +231,7 @@ font-weight: 700;
 font-size: 18px;
 line-height: 36px;
 font-family: 'Roboto', sans-serif;
+letter-spacing: 0.06em;
 }
 
 .choise-name{
@@ -264,10 +240,14 @@ font-weight: 400;
 font-size: 16px;
 line-height: 30px;
 font-family: 'Roboto', sans-serif;
+letter-spacing: 0.03em;
 }
 
 body{
     color: var(--big-text-color);
+    font-size: 14px;
+    background-color: var(--big-text-color);
+    letter-spacing: 0.03em;
 }
 
 .our-team{
@@ -343,10 +323,6 @@ top: 2094px;
     text-decoration: none;
 }
 
-.adress:hover{
-    color: var(--enother-text-color);
-}
-
 .logo-two{
     font-weight: 700;
     font-size: 26px;
@@ -363,4 +339,5 @@ top: 2094px;
 
     .adress-two{
         list-style: none;
+        font-family: 'Roboto', sans-serif;
     }
