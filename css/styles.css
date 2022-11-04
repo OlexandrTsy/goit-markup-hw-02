@@ -252,24 +252,10 @@ text-align: center;
     color: var(--primary-text-color);
 }
 
-.image-one{
+.images{
     width: 370px;
     height: 294px;
     left: 215px;
-    top: 1058px;
-}
-
-.image-two{
-    width: 370px;
-    height: 294px;
-    left: 615px;
-    top: 1058px;
-}
-
-.image-three{
-    width: 370px;
-    height: 294px;
-    left: 1015px;
     top: 1058px;
 }
 
