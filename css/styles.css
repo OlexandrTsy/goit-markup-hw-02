@@ -266,6 +266,11 @@ text-align: center;
     font-style: normal;
 }
 
+.adress:hover,
+.adress:focus{
+    color: var(--enother-text-color);
+}
+
 .logo-two{
     font-weight: 700;
     font-size: 26px;
