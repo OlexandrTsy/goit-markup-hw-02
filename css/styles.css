@@ -116,7 +116,7 @@ background: var(--backround-text-color);
     color: var(--big-text-color);
     font-weight: 700;
     font-size: 16px;
-    line-height: 30;
+    line-height: 1.9;
     align-items: center;
     text-align: center;
     background: var(--enother-text-color);
